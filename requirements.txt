@@ -1,0 +1,6 @@
+tweepy
+datetime
+PySimpleGUI
+colorama
+js
+requests
